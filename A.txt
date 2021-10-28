@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 this is a file
 
 my name is fatemeh
+=======
+>>>>>>> second
